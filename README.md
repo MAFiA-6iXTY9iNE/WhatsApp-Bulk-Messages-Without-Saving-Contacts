@@ -26,5 +26,3 @@ Note: If you wish to send an image instead of text you can write attachment sele
 
 ## Legal
 * This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk. Commercial use of this code/repo is strictly prohibited.
-
-Note: The script may not work in case if the HTML of web WhatsApp is changed. If you face any problem please do let me know. Surely I will help you out. You can expect response on weekend only others days extremely busy with my routine activities.
